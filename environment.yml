@@ -1,0 +1,9 @@
+name: ML3
+dependencies:
+  - python=3.7
+  - pip
+  - pandas
+  - scikit-learn
+  - numpy
+  - notebook
+  - matplotlib
