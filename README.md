@@ -1,5 +1,6 @@
 # Machine_Learning
 # 1: Chú Thích
+
 # 2: Clone
 > Download git
 
@@ -11,9 +12,9 @@
 
 >  conda env create -f environment.yml
 
->  conda activate ML3
+>  conda activate ML
 
->  jupyter notebook "Hoc_may.ipynb"
+>  coppy các nội dung trong file vào  Jupyter lab
 
 * Chạy trên Colab
 > Đẩy thư mục đã clone lên Driver
