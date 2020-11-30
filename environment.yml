@@ -1,4 +1,4 @@
-name: ML3
+name: ML
 dependencies:
   - python=3.7
   - pip
