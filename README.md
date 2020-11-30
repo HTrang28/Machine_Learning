@@ -18,7 +18,7 @@
 # 2: Clone
 > Download git
 
-> git clone https://github.com/NguyenCanhThanh/Machine_Learning.git
+> Git clone https://github.com/NguyenCanhThanh/Machine_Learning.git
 # 3: Run
 * Chạy bằng PyCharm
 > Mở thư mục machine learning vừa clone ở trên trong pycharm
