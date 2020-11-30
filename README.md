@@ -27,13 +27,13 @@
 > Ấn vào Run trên thanh công cụ rồi chọn Run-flie ( phím tắt Shift + F10)
 * Chạy trên Jupyter notebook
 * Tao môi truong Anaconda:
-> mở Terminal gõ:  cd 'đường dẫn lưu thư mục clone ở trên'
+> Mở Terminal gõ:  cd 'đường dẫn lưu thư mục clone ở trên'
 
 >  conda env create -f environment.yml
 
 >  conda activate ML
 
->  coppy các nội dung trong file vào  Jupyter lab
+>  Coppy các nội dung trong file vào  Jupyter lab
 
 * Chạy trên Colab
 > Đẩy thư mục đã clone lên Driver
