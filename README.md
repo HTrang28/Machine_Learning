@@ -13,8 +13,9 @@
 
 > So sánh model KNN với các model khác như DecisionTree, LogisticRegression
 * main.py: 
-> tự viết lại các hàm trong model KNN
-* Báo Cáo KNN-andMobile-price.docx: Báo cáo môn học
+> Tự viết lại các hàm trong model KNN
+* Báo Cáo KNN-andMobile-price.docx: 
+> Báo cáo môn học
 # 2: Clone
 > Download git: https://git-scm.com/downloads
 
