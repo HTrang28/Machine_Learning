@@ -16,7 +16,7 @@
 > tự viết lại các hàm trong model KNN
 * Báo Cáo KNN-andMobile-price.docx: Báo cáo môn học
 # 2: Clone
-> Download git
+> Download git: https://git-scm.com/downloads
 
 > Git clone https://github.com/NguyenCanhThanh/Machine_Learning.git
 # 3: Run
