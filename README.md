@@ -22,7 +22,7 @@
 > Git clone https://github.com/NguyenCanhThanh/Machine_Learning.git
 # 3: Run
 * Chạy bằng PyCharm
-> Cài đặt các thư viện cần trong environment.yml bằng: pip install <tên thư mục>
+> Cài đặt các thư viện cần trong environment.yml bằng cách gõ lệnh trong Terminal của Pycharm: pip install <tên thư mục>
 
 > Mở thư mục machine learning vừa clone ở trên trong pycharm
 
