@@ -1,9 +1,13 @@
 # Machine_Learning
 # 1: Chú Thích
-* Train.csv: Tập dữ liệu train
-* Test.csv: Tập dữ liệu test
-* Environment.yml: Môi trường trong Anaconda
-* Analytical_data.py: Phân tích tiền dữ liệu
+* Train.csv: 
+> Tập dữ liệu train
+* Test.csv: 
+> Tập dữ liệu test
+* Environment.yml:
+> Môi trường trong Anaconda
+* Analytical_data.py: 
+> Phân tích tiền dữ liệu
 * SklearnKNN.py: 
 > Sử dụng thư viện các hàm có sẵn trong sklearn 
 
