@@ -10,6 +10,7 @@
 > So sánh model KNN với các model khác như DecisionTree, LogisticRegression
 * main.py: 
 > tự viết lại các hàm trong model KNN
+* Báo Cáo KNN-andMobile-price.docx: Báo cáo môn học
 # 2: Clone
 > Download git
 
@@ -20,7 +21,7 @@
 
 > Ấn vào Run trên thanh công cụ rồi chọn Run-flie ( phím tắt Shift + F10)
 * Chạy trên Jupyter notebook
-* Tao moi truong Anaconda(Anaconda phải đã được cài):
+* Tao môi truong Anaconda:
 > mở Terminal gõ:  cd 'đường dẫn lưu thư mục clone ở trên'
 
 >  conda env create -f environment.yml
