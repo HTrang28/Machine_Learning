@@ -22,6 +22,8 @@
 > Git clone https://github.com/NguyenCanhThanh/Machine_Learning.git
 # 3: Run
 * Chạy bằng PyCharm
+> Cài đặt các thư viện cần trong environment.yml bằng: pip install <tên thư mục>
+
 > Mở thư mục machine learning vừa clone ở trên trong pycharm
 
 > Ấn vào Run trên thanh công cụ rồi chọn Run-flie ( phím tắt Shift + F10)
